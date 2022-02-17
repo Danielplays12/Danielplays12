@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Danielplays12
 - 👀 I’m interested  em desenvolver em java script
 - 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate criano sites bots e etc...
+- 💞️ I’m looking to collaborate criando site e bots...
 - 📫 How to reach me :atraves do dc :Daniel 021#2681 ou no instagram :chefinxs.reg
 - estudando js
 <!---
